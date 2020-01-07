@@ -1,20 +1,29 @@
 ## 一、url链接
-[pythonanywhere url1](http://liwenkross.pythonanywhere.com/)
-[pythonanywhere url2](http://xiaohewenya.pythonanywhere.com/)
+1. [Pythonanywhere URL1](http://liwenkross.pythonanywhere.com/)
 
+2. [Pythonanywhere URL2](http://xiaohewenya.pythonanywhere.com/)
+
+3. [Github代码URL 其中全由个人完成](https://github.com/NFUNM171061397/Interactive_Visual_Final)
+
+备注（以下全由个人完成）：
+1. 数据查找，收集，清洗
+2. FLASK框架（app.py,templates,static...所有文件已上传）
+3. 四份交互产品完成并嵌套
+4. 交互控件（网站界面基础）
+5. html表
 
 ## 二、项目说明
 * 数据来源：kaggle
 * 数据处理：通过python将多个现有的数据库数据进行清洗，并进行整合。
 * 选题说明：通过星巴克的数据，来发现其背后有趣的故事
 * 交互实现：
-1.城市星巴克门店数：信息表单筛选出国家，将该国家的城市所含星巴克数量由条形图呈现出来。（plotly）
-2.TOP50国家排名（星巴克门店数）：通过条形图，可以直观的呈现出国家含星巴克的门店数量，便于对比。（pyecharts）
-3.星巴克全球分布地图：通过地图的形式，呈现星巴克在全球的分布情况。（pyecharts）
-4.星巴克中国分布地图：内含三种地图，可进行交互。（folium）
+1. 城市星巴克门店数：信息表单筛选出国家，将该国家的城市所含星巴克数量由条形图呈现出来。（plotly）
+2. TOP50国家排名（星巴克门店数）：通过条形图，可以直观的呈现出国家含星巴克的门店数量，便于对比。（pyecharts）
+3. 星巴克全球分布地图：通过地图的形式，呈现星巴克在全球的分布情况。（pyecharts）
+4. 星巴克中国分布地图：内含三种地图，可进行交互。（folium）
 * 交互界面：通过plotly、pyecharts、网页css样式等，对配色、字体、信息进行界面美观与得体的实现。
 
-'''
+
 ## 三、选题说明
 ### 背景
 星巴克最初是一家全豆和咖啡粉，茶和香料的烘焙商和零售商，1971年在西雅图的派克市场上开设了一家商店。该公司现在在70个国家/地区拥有24,000多家零售店。
