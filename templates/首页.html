@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+<div>
+<center>
+<header>全球星巴克</header>	
+</br>
+</br>
+</br>
+</br>
+<select autofocus method='POST' onchange="window.location=this.value; width='30'">
+  <option>-请点击进行选择-</option>
+  <option value="/all">信息表单</option>
+  <option value="/map">全球分布图</option> 
+  <option value="/country">各国门店排名</option>
+  <option value="/chinamap">中国门店地图</option> 
+</select>
+</center>
+</div>
+</br>
+</br>
+</br>
+</br>
+{% endblock %}
