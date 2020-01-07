@@ -1,11 +1,12 @@
-## 一、url链接
+## 一、URL 链接
 * [Pythonanywhere URL1](http://liwenkross.pythonanywhere.com/)
 
 * [Pythonanywhere URL2](http://xiaohewenya.pythonanywhere.com/)
 
 * [Github代码URL ](https://github.com/NFUNM171061397/Interactive_Visual_Final)
+（所有上传文件皆由个人完成）
 
-* 备注（上传文件-全由个人完成）：
+* 备注（个人完成说明）：
 1. 数据查找，收集，清洗
 2. FLASK框架（app.py,templates,static...所有文件已上传）
 3. 四份交互产品完成并嵌套
@@ -17,7 +18,6 @@
 ## 二、项目说明
 * 数据来源：kaggle
 * 数据处理：通过python将多个现有的数据库数据进行清洗，并进行整合。
-* 选题说明：通过星巴克的数据，来发现其背后有趣的故事
 * 交互实现：
 1. 城市星巴克门店数：信息表单筛选出国家，将该国家的城市所含星巴克数量由条形图呈现出来。（plotly）
 2. TOP50国家排名（门店数）：通过条形图，直观的呈现出国家含星巴克的门店数量，便于对比。（pyecharts）
