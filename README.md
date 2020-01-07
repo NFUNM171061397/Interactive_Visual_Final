@@ -1,16 +1,18 @@
 ## 一、url链接
-[Pythonanywhere URL1](http://liwenkross.pythonanywhere.com/)
+* [Pythonanywhere URL1](http://liwenkross.pythonanywhere.com/)
 
-[Pythonanywhere URL2](http://xiaohewenya.pythonanywhere.com/)
+* [Pythonanywhere URL2](http://xiaohewenya.pythonanywhere.com/)
 
-[Github代码URL ](https://github.com/NFUNM171061397/Interactive_Visual_Final)
+* [Github代码URL ](https://github.com/NFUNM171061397/Interactive_Visual_Final)
 
 * 备注（上传文件-全由个人完成）：
 1. 数据查找，收集，清洗
 2. FLASK框架（app.py,templates,static...所有文件已上传）
 3. 四份交互产品完成并嵌套
-4. 交互控件（网站界面基础）
-5. 基础html表单
+4. 交互控件（交互界面样式）
+5. html表单（数据筛选）
+
+* pythonanywhere所有页面可正常跳转，数据大可能加载较为缓慢，若跳转失败请多次尝试、刷新。
 
 ## 二、项目说明
 * 数据来源：kaggle
